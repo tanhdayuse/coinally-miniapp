@@ -1,1 +1,0 @@
-# coinally-miniapp
